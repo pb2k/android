@@ -19,6 +19,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/motorola/umts_sholes" name="nadlabak/android_device_motorola_umts_sholes" />
+  <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
